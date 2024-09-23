@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shashish-github
+- 👋 Hi, I’m @Shashish aka CodeWiz.
 - 👀 I’m interested in software development, data science, and open-source contributions.
 - 🌱 I’m currently learning Java, machine learning, and SQL.
 - 💞️ I’m looking to collaborate on on open-source projects related to data analysis, machine learning, and web development.
